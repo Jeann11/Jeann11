@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Iris Echeverría</h1>
 <h3 align="center">A passionate FullStack Web Developer</h3>
 
-- 🌱 I’m currently learning **Frameworks, Javascript**
+- 🌱  I'm currently learning fullstack developer in FactoriaF5
+-  And learning **Frameworks, Javascript**, etc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
